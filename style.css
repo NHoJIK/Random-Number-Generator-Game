@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+.again {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.number {
+  font-size: 100;
+  text-align: center;
+  color: grey;
+}
+
+.between {
+  font-family: "Anton", sans-serif;
+  perspective: 1000px;
+  text-align: center;
+  color: #555;
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 32px;
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
+  -webkit-transform: translate3d(0, 0, 0);
+}
+
+.message {
+  font-size: 35;
+}
+
+.score {
+  font-size: 30;
+}
+
+.label-highscore {
+  font-size: 40;
+}
+
+.highscore {
+  font-size: 40;
+}
